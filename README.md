@@ -3,17 +3,21 @@
 # 江西财经大学硕士毕业论文Typst模板
 
 ![GitHub License](https://img.shields.io/github/license/MaxforCherubim/Jxufe-master-thesis-Typst-template)
+[![Typst](https://img.shields.io/badge/Typst-239dad?logo=typst&logoColor=white)](https://typst.app)
+[![Typst Universe](https://img.shields.io/typst/v/jufe-master-thesis?logo=typst&color=239dad)](https://typst.app/universe/package/jufe-master-thesis)
 
 为酱菜学子提供方便好用的硕士毕业论文Typst模板
 
 ## 目录
 
-- [项目概述​](#项目概述)
-- [使用方法​](#使用方法)
-- [注意事项​](#注意事项)
-- [贡献指南​](#贡献指南)
-- [联系方式​](#联系方式)
-- [许可证信息​](#许可证信息)
+- [江西财经大学硕士毕业论文Typst模板](#江西财经大学硕士毕业论文typst模板)
+  - [目录](#目录)
+  - [项目概述​](#项目概述)
+  - [使用方法​](#使用方法)
+  - [注意事项​](#注意事项)
+  - [贡献指南​](#贡献指南)
+  - [联系方式​](#联系方式)
+  - [许可证信息​](#许可证信息)
 
 ## 项目概述​
 
